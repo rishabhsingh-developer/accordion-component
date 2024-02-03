@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.click {
+  border: 1px solid black;
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+
+  padding: 0px 10px;
+  align-items: center;
+}
+.itemdescription {
+  border: 1px solid black;
+}
+.text {
+  padding: 0px 100px;
+  font-size: 12px;
+  text-align: center;
+}
